@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  display:table;
+  float:left;
 }
 
 p, ul, ol, table, pre, dl {
@@ -109,7 +109,7 @@ img {
 }
 
 header {
-  width:500px;
+  width:400px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
