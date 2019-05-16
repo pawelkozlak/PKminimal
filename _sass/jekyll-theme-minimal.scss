@@ -106,7 +106,7 @@ img {
 }
 
 header {
-  width:400px;
+  width:330px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -190,11 +190,12 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:330px;
   float:left;
   position:fixed;
-  bottom:50px;
+  bottom:-30px;
   -webkit-font-smoothing:subpixel-antialiased;
+  text-align:center;
 }
 
 @media print, screen and (max-width: 960px) {
