@@ -102,7 +102,10 @@ th {
 }
 
 img {
-  max-width:100%;
+  max-width:70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
 }
 
 header {
@@ -193,7 +196,7 @@ footer {
   width:330px;
   float:left;
   position:fixed;
-  bottom:-30px;
+  bottom:30px;
   -webkit-font-smoothing:subpixel-antialiased;
   text-align:center;
 }
